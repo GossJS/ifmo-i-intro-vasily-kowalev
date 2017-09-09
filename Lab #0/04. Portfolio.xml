@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<portfolio>
+	<title>Portfolio</title>
+	<field>
+		<label>Name</label>
+		<input value="Vasily" />
+	</field>
+	<field>
+		<label>Surname</label>
+		<input value="Kovalev" />
+	</field>
+	<field>
+		<label>Middle name</label>
+		<input value="Vasil'evich" />
+	</field>
+	<field>
+		<label>E-mail</label>
+		<input value="vasya.kowalev@yandex.ru" />
+	</field>
+	<field>
+		<label>Phone number</label>
+		<input value="8-9**-***-**-**" />
+	</field>
+	<field>
+		<label>Education</label>
+		<input value="Bachelor, Tomsk State University of
+Control Systems and Radioelectonics, speciality 'Radio Engineer' (2013-2017)" />
+	</field>
+	<field>
+		<label>Experience</label>
+		<input value="Less than one year" />
+	</field>
+	<field>
+		<label>About</label>
+		<input value="Knowledges in HTML5, CSS3, jQuery, Python (ver. 2.7, 3.6), Django, Git, PyQt4. Basic knowledges in SQLite, PHP, Ruby and LESS." />
+	</field>
+</portfolio>
